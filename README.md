@@ -1,4 +1,4 @@
-# # BookBot
+# BookBot
 
 BookBot is a Python command-line application that analyzes books and text files, generating reports that include total word count and character frequency rankings.
 
