@@ -15,6 +15,10 @@ BookBot is a Python command-line application that analyzes books and text files,
 ## How to Run
 
 ```bash
+Usage:
+python3 main.py <path_to_book>
+
+Example:
 python3 main.py books/frankenstein.txt
 ```
 
